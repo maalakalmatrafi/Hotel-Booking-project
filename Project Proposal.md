@@ -14,7 +14,7 @@
  
 ## Tools:
  - EDA
- - Data Preparation¶
+ - Data Preparation
    - Missing Data
    - Categorical Data
  -  Model training
