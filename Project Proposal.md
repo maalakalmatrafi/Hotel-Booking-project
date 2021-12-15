@@ -18,5 +18,8 @@
    - Missing Data
    - Categorical Data
  -  Model training
+   - Logistic Regression
+   - K Nearest Neighbors (KNN)
+   - Decision Tree Classifier
 
 
