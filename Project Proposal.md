@@ -20,7 +20,6 @@ This data set contains booking information for a city hotel and a resort hotel, 
  - Data Preparation
    - Missing Data
    - Categorical Data
-   
  -  Model training
    - Logistic Regression
    - K Nearest Neighbors (KNN)
