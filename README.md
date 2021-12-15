@@ -1,4 +1,4 @@
-# Hotel-Booking-project
+#  Hotel Booking EDA + Cancelation prediction
 
 [Poject-proposal](https://github.com/maalakalmatrafi/Hotel-Booking-project/blob/main/Project%20Proposal.md)
 
