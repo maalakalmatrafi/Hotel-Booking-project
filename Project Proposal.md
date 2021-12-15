@@ -21,8 +21,8 @@ This data set contains booking information for a city hotel and a resort hotel, 
    - Missing Data
    - Categorical Data
  -  Model training
-   - Logistic Regression
-   - K Nearest Neighbors (KNN)
-   - Decision Tree Classifier
+    - Logistic Regression
+    - K Nearest Neighbors (KNN)
+    - Decision Tree Classifier
 
 
